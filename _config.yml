@@ -28,11 +28,9 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#7544A0'
-  orange:    '#fab125'
+  yellow:     '#EDC91F'
   turquoise: '#0fbfcf'
   red:       '#F93738'
-	yellow:    '#EDC91F'
 
 kramdown:
   auto_ids:  false
-
