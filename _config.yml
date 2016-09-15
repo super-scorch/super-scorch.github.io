@@ -5,7 +5,7 @@ host: 0.0.0.0
 safe: false
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [README.md, .gitignore]
 permalink: /:title
 timezone: null
 lsi: false
@@ -19,18 +19,18 @@ keywords:    "scorched, earth, super, smash, bros, jekyll, videos, github, blog,
 description: "For Super Scorch the game"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/touch-icon.png"
-google_analytics_key: UA-68888314-1
 
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
+  orange:    '#fab125'
   purple:    '#7544A0'
-  yellow:     '#EDC91F'
-  turquoise: '#0fbfcf'
   red:       '#F93738'
+  turquoise: '#0fbfcf'
+  white:     '#f8f8f8'
+  yellow:    '#EDC91F'
 
 kramdown:
   auto_ids:  false
