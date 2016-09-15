@@ -5,12 +5,12 @@ color: black
 style: center
 ---
 
-
 # Super Scorch
 
+<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(0,0,0,0.1)">
+  <img src="img/face.png" />
+</span>
 
-<br>
-> Hello. This is the website for Super Scorch, a fighting game inspired by Scorched Earth
-
+> This is the website for Super Scorch, a fighting game inspired by Scorched Earth
 
 You can email me here: [operation.ortsac@gmail.com](mailto:operation.ortsac@gmail.com) 
