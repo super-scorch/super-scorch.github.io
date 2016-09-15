@@ -1,0 +1,38 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+future: true
+
+### content configuration ###
+title:       "Super Scorch"
+keywords:    "scorched, earth, super, smash, bros, jekyll, videos, github, blog, single page"
+description: "For Super Scorch the game"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/touch-icon.png"
+google_analytics_key: UA-68888314-1
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#7544A0'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  red:       '#F93738'
+	yellow:    '#EDC91F'
+
+kramdown:
+  auto_ids:  false
+
